@@ -1,2 +1,1 @@
-# tanjaSurdanovic
-Design Tanjinog sajta
+# My project's README
